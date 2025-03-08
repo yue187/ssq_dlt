@@ -1,5 +1,6 @@
 ssq 双色球开奖历史记录
 dlt 大乐透开奖历史记录
+qlc 七乐彩开奖历史记录
 ===============
 ## 接口地址
 * https://www.xietian.xyz/api/fcapi/list&token=tokences&type=dlt&page=1&limit=1
@@ -9,7 +10,7 @@ dlt 大乐透开奖历史记录
 
 ## 接口参数说明
 * token 必填 string  申请的token 或者测试使用
-* type  必填 string  分类 dlt  ssq
+* type  必填 string  彩票分类 dlt  ssq  qlc
 * page  必填 int     页码
 * limit 选填 int     每页数量 为空则默认
 
