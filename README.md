@@ -2,6 +2,8 @@ ssq 双色球开奖历史记录
 dlt 大乐透开奖历史记录
 qlc 七乐彩开奖历史记录
 ===============
+## 种类
+  ssq 双色球 dlt 大乐透  qlc 七乐彩
 ## 接口地址
 * https://www.xietian.xyz/api/fcapi/list&token=tokences&type=dlt&page=1&limit=1
 * 请求方式 POST GET 都可以
@@ -74,4 +76,5 @@ qlc 七乐彩开奖历史记录
 ## 收集整理不易！感谢您的支持和赞赏
 ![Image text](https://www.xietian.xyz/uploads/pay/www.jpg)
 ![Image text](https://www.xietian.xyz/uploads/pay/zzz.jpg)
+
 
